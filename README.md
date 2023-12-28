@@ -1,8 +1,6 @@
-# nasdaq_feature_scraper
+# NASDAQ FEATURE SCRAPER
 This repository contains Python scripts for scraping various types of data from Nasdaq, including short interest, options chain, and institutional investors for specific stocks.
 
-
-INSTRUCTIONS:
 
 ## Requirements
 
