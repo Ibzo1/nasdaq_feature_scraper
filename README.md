@@ -39,9 +39,7 @@ This tool scrapes data from Nasdaq's website, which may change its layout or URL
 
 Feel free to fork this project, make changes, and submit pull requests. Your contributions are welcome!
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 
 
